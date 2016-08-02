@@ -1,0 +1,15 @@
+{
+  "name": "carstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "car_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.9.61",
+    "request": "^2.74.0"
+  }
+}
